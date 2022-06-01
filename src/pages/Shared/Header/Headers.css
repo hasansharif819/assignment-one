@@ -1,0 +1,54 @@
+.headers{
+    background-color: #F2F2F2;
+    color: #644F9C;
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.navBar{
+    color:#644F9C;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navBar-button{
+    display: flex;
+    text-align: end;
+    justify-content:right;
+    background-color: #ffffff;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+.BN{
+    color: green;
+    font: 700;
+}
+
+.signUpButton{
+    border: 2px solid #FF6F00;
+    border-radius: 20px;
+    background-color: #FF6F00;
+    color: white;
+}
+
+
+
+.loginButton{
+    background-color: #F2F2F2;
+    margin-left:100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media only screen and (max-width: 400px) {
+    .navBar{
+      display: flex;
+      flex-direction: column;
+      margin-left: 0;
+    }
+  }

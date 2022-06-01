@@ -1,0 +1,11 @@
+.carousalClass{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+}
+
+.carousalClass img{
+    height: 400px;
+    width: 400px;
+}

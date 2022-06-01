@@ -1,0 +1,51 @@
+.title-1{
+    background-color: #644F9C;
+    
+}
+
+.divTitle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.titleDiv-1{
+    width: 300px;
+    height: 300px;
+    border: 3px dotted whitesmoke;
+    border-radius: 50%;
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.titleDiv-2{
+    width: 300px;
+    height: 300px;
+    border: 3px dotted whitesmoke;
+    border-radius: 50%;
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+}
+
+.titleDiv-3{
+    width: 300px;
+    height: 300px;
+    border: 3px dotted whitesmoke;
+    border-radius: 50%;
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #FF6F00;
+}
